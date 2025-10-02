@@ -32,7 +32,7 @@
       <td><?php echo $tanggalLahir?></td>
     </tr>
     <tr>
-      <td>Jeni Kelamin</td>
+      <td>Jenis Kelamin</td>
       <td><?php echo $jenisKelamin?></td>
     </tr>
     <tr>
